@@ -65,9 +65,9 @@ cd storage
 
 cd downloads
 
-git clone https://github.com/Zulkiflimok/zul1
+git clone https://github.com/Zulkiflimok/zul01
 
-cd zul01
+cd zul1
 
 unzip zul1.zip
 
